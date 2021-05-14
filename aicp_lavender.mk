@@ -33,3 +33,6 @@ BUILD_FINGERPRINT :="xiaomi/lavender/lavender:9/QKQ1.190910.002/V11.0.1.0.QFGMIX
 # AICP Device Maintainers
 PRODUCT_BUILD_PROP_OVERRIDES += \
     DEVICE_MAINTAINERS="Nafid Faham(Faham)"
+
+PRODUCT_OVERRIDE_INFO := true
+PRODUCT_OVERRIDE_FINGERPRINT := "google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys"
