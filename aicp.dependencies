@@ -1,0 +1,12 @@
+[
+  {
+    "repository":  "lavender-evergarden/vendor_xiaomi_lavender",
+    "target_path": "vendor/xiaomi/lavender",
+    "branch": "r11.1"
+  },
+  {
+    "repository": "lavender-evergarden/kernel_xiaomi_lavender",
+    "target_path": "kernel/xiaomi/lavender",
+    "branch": "r11.1"
+  },
+]
