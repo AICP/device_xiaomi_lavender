@@ -1,11 +1,11 @@
 [
   {
-    "repository":  "lavender-evergarden/vendor_xiaomi_lavender",
-    "target_path": "vendor/xiaomi/lavender",
+    "repository":  "AICP/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
     "branch": "r11.1"
   },
   {
-    "repository": "lavender-evergarden/kernel_xiaomi_lavender",
+    "repository": "AICP/kernel_xiaomi_lavender",
     "target_path": "kernel/xiaomi/lavender",
     "branch": "r11.1"
   },
