@@ -1,10 +1,5 @@
 [
   {
-    "repository":  "AICP/proprietary_vendor_xiaomi",
-    "target_path": "vendor/xiaomi",
-    "branch": "r11.1"
-  },
-  {
     "repository": "AICP/kernel_xiaomi_lavender",
     "target_path": "kernel/xiaomi/lavender",
     "branch": "r11.1"
